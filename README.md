@@ -1,7 +1,7 @@
 # data_management_platform
 DataHarbor – Data quality monitoring and analytics platform
 # DataHarbor
-
+![Data Harbor](https://github.com/AbdulazizAlansi/data_management_platform/blob/main/doc/DATA%20MANAGEMENT%20PLATFORM.png)
 DataHarbor is a data quality monitoring and analytics platform designed to help organizations analyze datasets, detect data quality issues, and generate insights from structured data.
 
 ## Features
